@@ -1,0 +1,9 @@
+.highlighted-project {
+    margin: 10px;
+}
+
+.project-screenshot {
+    height: 300px;
+    object-fit: cover;
+    opacity: 80%;
+}

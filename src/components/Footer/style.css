@@ -1,0 +1,16 @@
+.Footer {
+    background-color: #343a40;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Montserrat', sans-serif;
+    position:relative;
+    bottom: 0;
+    padding: 10px;
+}
+
+.footer-content {
+    opacity: 50%;
+    margin: 0px;
+    padding: 5px;
+}

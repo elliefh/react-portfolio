@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+
+* {
+  font-family: Montserrat;
+}
+
+p {
+  color: black;
+}
+
+.page-title {
+  font-size: 20px;
+  margin-top: 15px;
+  border-bottom: solid;
+  border-width: 1px;
+}
+
+.footer-content {
+  color: white;
+}
